@@ -57,4 +57,4 @@ located at: `...\Mail.API\Mail.API\appsettings.json`
    ```
 
 ## Images:   
-![image](https://github.com/max-shelll/Mail.API/assets/101334622/0572190d-353a-4931-ad34-2bbb14ce2987)
+![image](https://github.com/max-shelll/Email.API/assets/101334622/dab45536-9276-4e7d-978a-58fc550f6562)
