@@ -15,7 +15,7 @@
 2. Clone the repository:
 
    ```bash
-   git clone https://github.com/koetee/advanced-auth-ts.git
+   git clone https://github.com/max-shelll/Email.API.git
    ```
 
 ### Configuration
